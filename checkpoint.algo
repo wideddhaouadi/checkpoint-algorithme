@@ -1,0 +1,32 @@
+algorithme Counting
+VAR
+i:integer 
+j:integer 
+z:integer
+c:'charachter' of input
+input:'chaine de caractere'
+begin:
+input 'please enter your sentence' 
+
+i=0 ; j=0 ; z=0 ;
+ WHILE ('c' != '.' ) DO
+
+SWITCH (c) DO
+   case 1 : c===''; i+= ;
+   
+   case 2 : c==='a'; j+= ;BREAK;
+    
+   case 3 :  c==='e'; j+= ;BREAK;
+   case 4 :  c==='i'; j+= ;BREAK;
+   case 3 :  c==='o'; j+= ;BREAK;
+   case 3 :  c==='u'; j+= ;BREAK;
+   case 3 :  c==='y'; j+= ;BREAK;
+
+   default : z+=;
+
+END_SWITCH
+
+END_WHILE
+
+write j ; i ; z
+End

@@ -1,0 +1,20 @@
+ALGORITHM insert-array
+VAR
+    arr1:tableau
+    arr2:tableau
+    x:integer
+    i:integer
+BEGIN
+write (enter arr1)
+write (enter x )
+write (enter index i de x)
+.push x=arr2 i
+    if
+    i(arr1)<i(x)
+    for (i ; i<i(x) ;i++)
+.push arr1 i =arr2 IF ) 
+ELSE
+   . push arr1 i = arr2 i+1
+END_IF
+
+END

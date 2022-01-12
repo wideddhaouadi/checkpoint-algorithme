@@ -1,0 +1,17 @@
+.algorithme
+ALGORITHM cheking-string
+VAR
+str1:string
+str2:string
+x:length str1
+y:length str2
+c:charachter
+BEGIN
+ IF (x===y) THEN
+    WHILE (c (i)of str1===c (i) str2) DO
+        c (i+1)of str1===c (i+1) str2
+    END_WHILE
+ ELSE
+     write (different string)
+ END_IF
+END

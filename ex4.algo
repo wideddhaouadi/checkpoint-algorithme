@@ -1,0 +1,12 @@
+ALGORITHME CHEKING-SYMETRIE
+VAR
+    STR:STRING
+
+BEGIN
+FOR (I=0 I<LENGTH ARR)
+  IF (ARR I=ARR LENGTH-I) THEN
+      set_instructions
+  ELSE
+      set_instructions
+  END_IF
+END
